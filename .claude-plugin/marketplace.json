@@ -1,0 +1,6 @@
+{
+  "name": "nebula-theme",
+  "owner": { "name": "Willian Michell" },
+  "description": "Nebula: tema escuro roxo/azul, suave para os olhos, para o app Claude",
+  "plugins": [{ "name": "nebula-theme", "source": "./" }]
+}

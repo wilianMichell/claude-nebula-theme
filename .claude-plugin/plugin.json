@@ -1,0 +1,7 @@
+{
+  "name": "nebula-theme",
+  "version": "0.1.0",
+  "description": "Nebula: tema escuro roxo/azul, suave para os olhos, para o app Claude (desktop e mobile)",
+  "author": { "name": "Willian Michell" },
+  "license": "MIT"
+}
